@@ -1,0 +1,113 @@
+{
+  "pallet":
+[
+ {
+  "id": "Row1",
+  "colours": [
+   {"id":"1.1","colour":"FF9C615E","cat":""},
+   {"id":"1.2","colour":"FF9A625C","cat":""},
+   {"id":"1.3","colour":"FF99635A","cat":""},
+   {"id":"1.4","colour":"FF976558","cat":"tritanope"},
+   {"id":"1.5","colour":"FF966656","cat":"tritanope"},
+   {"id":"1.6","colour":"FF946754","cat":"tritanope"},
+   {"id":"1.7","colour":"FF936852","cat":"tritanope"},
+   {"id":"1.8","colour":"FF916A51","cat":""},
+   {"id":"1.9","colour":"FF906B4F","cat":""},
+   {"id":"1.11","colour":"FF8E6C4D","cat":""},
+   {"id":"1.10","colour":"FF8D6E4B","cat":""},
+   {"id":"1.12","colour":"FF8C6F49","cat":""},
+   {"id":"1.13","colour":"FF8A7047","cat":""},
+   {"id":"1.14","colour":"FF897245","cat":""},
+   {"id":"1.15","colour":"FF877343","cat":""},
+   {"id":"1.16","colour":"FF867441","cat":""},
+   {"id":"1.17","colour":"FF847640","cat":""},
+   {"id":"1.18","colour":"FF83773E","cat":""},
+   {"id":"1.19","colour":"FF81783C","cat":""},
+   {"id":"1.20","colour":"FF80793A","cat":""},
+   {"id":"1.21","colour":"FF7E7B38","cat":""},
+   {"id":"1.22","colour":"FF7D7C36","cat":""}
+   ]
+  },
+{
+ "id": "Row2",
+ "colours": [
+  {"id":"2.1","colour":"FF7D7C36","cat":""},
+  {"id":"2.2","colour":"FF7A7D39","cat":""},
+  {"id":"2.3","colour":"FF7777E3C","cat":""},
+  {"id":"2.4","colour":"FF747E3F","cat":""},
+  {"id":"2.5","colour":"FF727E42","cat":""},
+  {"id":"2.6","colour":"FF6F7F45","cat":""},
+  {"id":"2.7","colour":"FF6C8048","cat":""},
+  {"id":"2.8","colour":"FF69804B","cat":""},
+  {"id":"2.9","colour":"FF66804E","cat":""},
+  {"id":"2.10","colour":"FF648151","cat":""},
+  {"id":"2.11","colour":"FF618254","cat":""},
+  {"id":"2.12","colour":"FF5E8258","cat":""},
+  {"id":"2.13","colour":"FF5B825B","cat":""},
+  {"id":"2.14","colour":"FF58835E","cat":""},
+  {"id":"2.15","colour":"FF568461","cat":""},
+  {"id":"2.16","colour":"FF538464","cat":""},
+  {"id":"2.17","colour":"FF508467","cat":""},
+  {"id":"2.18","colour":"FF4D856A","cat":""},
+  {"id":"2.19","colour":"FF4A866D","cat":""},
+  {"id":"2.20","colour":"FF488670","cat":""},
+  {"id":"2.21","colour":"FF458673","cat":""},
+  {"id":"2.22","colour":"FF428776","cat":""}
+ ]
+},
+{
+ "id": "Row3",
+ "colours": [
+  {"id":"3.1","colour":"FF428776","cat":""},
+  {"id":"3.2","colour":"FF448678","cat":"tritanope"},
+  {"id":"3.3","colour":"FF468579","cat":"tritanope"},
+  {"id":"3.4","colour":"FF48847B","cat":"tritanope"},
+  {"id":"3.5","colour":"FF4A837C","cat":"tritanope"},
+  {"id":"3.6","colour":"FF4C827E","cat":"tritanope"},
+  {"id":"3.7","colour":"FF4E817F","cat":"tritanope"},
+  {"id":"3.8","colour":"FF508081","cat":"tritanope"},
+  {"id":"3.9","colour":"FF527F82","cat":"tritanope"},
+  {"id":"3.10","colour":"FF547E84","cat":""},
+  {"id":"3.11","colour":"FF567D85","cat":""},
+  {"id":"3.12","colour":"FF587C86","cat":""},
+  {"id":"3.13","colour":"FF5B7C88","cat":""},
+  {"id":"3.14","colour":"FF5D7B89","cat":""},
+  {"id":"3.15","colour":"FF5F7A8B","cat":""},
+  {"id":"3.16","colour":"FF61798C","cat":""},
+  {"id":"3.17","colour":"FF63788E","cat":""},
+  {"id":"3.18","colour":"FF65778F","cat":""},
+  {"id":"3.19","colour":"FF677691","cat":""},
+  {"id":"3.20","colour":"FF697592","cat":""},
+  {"id":"3.21","colour":"FF6B7494","cat":""},
+  {"id":"3.22","colour":"FF6D7395","cat":""}
+  ]
+},
+{
+ "id": "Row4",
+ "colours": [
+  {"id":"4.1","colour":"FF6D7395","cat":""},
+  {"id":"4.2","colour":"FF6F7292","cat":""},
+  {"id":"4.3","colour":"FF717190","cat":""},
+  {"id":"4.4","colour":"FF74708D","cat":""},
+  {"id":"4.5","colour":"FF76708B","cat":""},
+  {"id":"4.6","colour":"FF786F88","cat":""},
+  {"id":"4.7","colour":"FF7A6E86","cat":""},
+  {"id":"4.8","colour":"FF7D6D84","cat":""},
+  {"id":"4.9","colour":"FF7F6C81","cat":""},
+  {"id":"4.10","colour":"FF816C7F","cat":""},
+  {"id":"4.11","colour":"FF846B7C","cat":""},
+  {"id":"4.12","colour":"FF866A7A","cat":""},
+  {"id":"4.13","colour":"FF886978","cat":""},
+  {"id":"4.14","colour":"FF8B6875","cat":""},
+  {"id":"4.15","colour":"FF8D6873","cat":""},
+  {"id":"4.16","colour":"FF8F6770","cat":""},
+  {"id":"4.17","colour":"FF92666E","cat":""},
+  {"id":"4.18","colour":"FF94656C","cat":""},
+  {"id":"4.19","colour":"FF966469","cat":""},
+  {"id":"4.20","colour":"FF986467","cat":""},
+  {"id":"4.21","colour":"FF9B6364","cat":""},
+  {"id":"4.22","colour":"FF9D6262","cat":""}
+  ]
+ }
+ ]
+}
